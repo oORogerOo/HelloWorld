@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("helloworld\n");
+	printf("helloworld1\n");
 	_tsystem(_T("pause"));
 	return 0;
 }
